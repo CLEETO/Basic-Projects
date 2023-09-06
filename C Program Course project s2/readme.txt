@@ -1,0 +1,1 @@
+This is a very simple contact app model that works by saving the contacts in a text file.

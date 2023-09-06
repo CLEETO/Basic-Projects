@@ -1,0 +1,1 @@
+This is a very simple banking app model thats works by storing data in a text file. The admin pin is 1234. The program creartes a .txt file in the D drive. So if D drive is not available make necessary changes. 
